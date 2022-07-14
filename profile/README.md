@@ -1,8 +1,8 @@
 # Kettra World
 
-<p align="center">
+<p align="left">
  <a>
-   <img alt="perfil" src="https://emoji.discord.st/emojis/78dfa68a-4924-45b9-8c70-7f41fa922540.gif" width=300 height=275>
+   <img alt="perfil" src="https://emoji.discord.st/emojis/18082d8e-8d8a-4379-acc7-5fd125294f30.gif" width=250 height=275>
   </a>
 </p>
 
