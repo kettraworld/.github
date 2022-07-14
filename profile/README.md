@@ -2,7 +2,7 @@
 
 <p align="center">
  <a>
-   <img alt="perfil" src="htthttps://media.discordapp.net/attachments/990242921473265714/997231172545429504/textcraft.pngps://emoji.discord.st/emojis/1" width=250 height=275>
+   <img alt="perfil" src="https://media.discordapp.net/attachments/990242921473265714/997231172545429504/textcraft.png"/>
   </a>
 </p>
 
