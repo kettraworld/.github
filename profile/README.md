@@ -1,8 +1,6 @@
-# Kettra World
-
 <p align="center">
  <a>
-   <img alt="perfil" src="https://media.discordapp.net/attachments/990242921473265714/997231172545429504/textcraft.png"/>
+   <img alt="perfil" src="https://media.discordapp.net/attachments/990242921473265714/997235601776590959/textcraft.png"/>
   </a>
 </p>
 
