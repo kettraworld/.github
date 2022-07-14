@@ -1,5 +1,9 @@
 # Kettra World
 
+<p align="center">
+<a><img alt="perfil" src="https://media.discordapp.net/attachments/991506128972304414/993676247244742667/CC_20220704_213409.png" width=300 height=275></a>
+</p>
+
 _Minecraft server Role-playing game focused on survival, economy, adventure, fun and much more, the server takes place in a fictional world called <strong>Kettra</strong> where players will have to join the <strong>Gods</strong> strong> and Sages unlock their secrets and save their new home, so those more adventurous can seek to solve the mysteries and riddles, or simply live an ordinary life like any peasant, noble, or whatever they see fit._
 
 # creators
