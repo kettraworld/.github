@@ -1,8 +1,3 @@
-<p align="center">
- <a>
-   <img alt="perfil" src="https://media.discordapp.net/attachments/990242921473265714/997235601776590959/textcraft.png"/>
-  </a>
-</p>
 
 _Minecraft server Role-playing game focused on survival, economy, adventure, fun and much more, the server takes place in a fictional world called <strong>Kettra</strong> where players will have to join the <strong>Gods</strong> and Sages unlock their secrets and save their new home, so those more adventurous can seek to solve the mysteries and riddles, or simply live an ordinary life like any peasant, noble, or whatever they see fit._
 
